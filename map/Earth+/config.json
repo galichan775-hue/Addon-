@@ -1,0 +1,18 @@
+{
+	Map: [
+		{
+			MapName: "Earth+",
+			Author: "Konstantin Karl",
+			BackgroundName: "AoC2+",
+			ContinentsPackage: "Earth6",
+			RegionsPackage: "Earth_AoC2",
+			NumberOfProvinces: 4279,
+			MapScale: 5,
+			WorldMap: true,
+			Scenario: "1200",
+			Wiki: "Earth"
+		},
+	],
+	
+	Age_of_Civilizations: Map
+}

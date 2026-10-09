@@ -1,0 +1,322 @@
+{
+	wonders:
+	[
+		{
+			Name: "Angkor Wat",
+			x: 3357,
+			y: 1463,
+			SinceYear: 1100,
+			UntilYear: 100000,
+			Image: "wat.png",
+			Wiki: "Angkor_Wat"
+		},
+		{
+			Name: "Great Wall of China",
+			x: 3496,
+			y: 1087,
+			SinceYear: 1644,
+			UntilYear: 100000,
+			Image: "123.png",
+			Wiki: "Great_Wall_of_China"
+		},
+		{
+			Name: "Great Wall of China West",
+			x: 3515,
+			y: 1068,
+			SinceYear: 1644,
+			UntilYear: 100000,
+			Image: "no.png",
+			Wiki: "Great_Wall_of_China"
+		},
+		{
+			Name: "Great Wall of China South",
+			x: 3484,
+			y: 1101,
+			SinceYear: 1644,
+			UntilYear: 100000,
+			Image: "no.png",
+			Wiki: "Great_Wall_of_China"
+		},
+		{
+			Name: "Great Wall of China East",
+			x: 3460,
+			y: 1100,
+			SinceYear: 1644,
+			UntilYear: 100000,
+			Image: "no.png",
+			Wiki: "Great_Wall_of_China"
+		},
+		{
+			Name: "Chichen Itza",
+			x: 999,
+			y: 1369,
+			SinceYear: 600,
+			UntilYear: 100000,
+			Image: "itza.png",
+			Wiki: "Chichen_Itza"
+		},
+		{
+			Name: "Christ the Redeemer",
+			x: 1546,
+			y: 1954,
+			SinceYear: 1931,
+			UntilYear: 100000,
+			Image: "redeemer.png",
+			Wiki: "Christ_the_Redeemer_(statue)"
+		},
+		{
+			Name: "Colossus of Rhodes",
+			x: 2430,
+			y: 1135,
+			SinceYear: -305,
+			UntilYear: 100000,
+			Image: "Colossus.png",
+			Wiki: "Colossus_of_Rhodes"
+		},
+		{
+			Name: "Great Mosque of Djenne",
+			x: 2028,
+			y: 1456,
+			SinceYear: 1200,
+			UntilYear: 100000,
+			Image: "Great_Mosque.png",
+			Wiki: "Great_Mosque_of_Djenne"
+		},
+		{
+			Name: "Himeji Castle",
+			x: 3735,
+			y: 1162,
+			SinceYear: 1300,
+			UntilYear: 100000,
+			Image: "Himeji.png",
+			Wiki: "Himeji_Castle"
+		},
+		{
+			Name: "Moai",
+			x: 726,
+			y: 2011,
+			SinceYear: 1250,
+			UntilYear: 100000,
+			Image: "moai.png",
+			Wiki: "Moai"
+		},
+		{
+			Name: "Pyramids",
+			x: 2463,
+			y: 1233,
+			SinceYear: -2630,
+			UntilYear: 100000,
+			Image: "piramid.png",
+			Wiki: "Egyptian_pyramids"
+		},
+		{
+			Name: "Stonehenge",
+			x: 2060,
+			y: 889,
+			SinceYear: -3100,
+			UntilYear: 100000,
+			Image: "stonehenge.png",
+			Wiki: "Stonehenge"
+		},
+		{
+			Name: "Parthenon",
+			x: 2379,
+			y: 1111,
+			SinceYear: -447,
+			UntilYear: 100000,
+			Image: "Parthenon.png",
+			Wiki: "Parthenon"
+		},
+		{
+			Name: "Pharos of Alexandria",
+			x: 2453,
+			y: 1217,
+			SinceYear: 284,
+			UntilYear: 100000,
+			Image: "pharos.png",
+			Wiki: "Lighthouse_of_Alexandria"
+		},
+		{
+			Name: "Taj Mahal",
+			x: 3042,
+			y: 1274,
+			SinceYear: 1632,
+			UntilYear: 100000,
+			Image: "taj_mahal.png",
+			Wiki: "Taj_Mahal"
+		},
+                {
+			Name: "Eiffel tower",
+			x: 2118,
+			y: 932,
+			SinceYear: 1887,
+			UntilYear: 100000,
+			Image: "efl.png",
+			Wiki: "Eiffel_Tower"
+		},
+                {
+			Name: "Moscow Kremlin",
+			x: 2547,
+			y: 802,
+			SinceYear: 1482,
+			UntilYear: 100000,
+			Image: "Krem.png",
+			Wiki: "Moscow_Kremlin"
+		},
+                {
+			Name: "Kiev Pechersk Lavra",
+			x: 2458,
+			y: 904,
+			SinceYear: 1051,
+			UntilYear: 100000,
+			Image: "lavra.png",
+			Wiki: "Kiev_Pechersk_Lavra"
+		},
+                {
+			Name: "The Motherland Calls",
+			x: 2634,
+			y: 937,
+			SinceYear: 1967,
+			UntilYear: 100000,
+			Image: "mat.png",
+			Wiki: "The_Motherland_Calls"
+		},
+                {
+			Name: "Sydney Opera House",
+			x: 3934,
+			y: 2118,
+			SinceYear: 1959,
+			UntilYear: 100000,
+			Image: "sid.png",
+			Wiki: "Sydney_Opera_House"
+		},
+                {
+			Name: "Hagia Sophia",
+			x: 2441,
+			y: 1062,
+			SinceYear: 532,
+			UntilYear: 100000,
+			Image: "sof.png",
+			Wiki: "Hagia_Sophia"
+		},
+                {
+			Name: "Reichstag",
+			x: 2254,
+			y: 863,
+			SinceYear: 1894,
+			UntilYear: 100000,
+			Image: "bund.png",
+			Wiki: "Reichstag_building"
+		},
+		{
+			Name: "Colosseum",
+			x: 2240,
+			y: 1048,
+			SinceYear: 72,
+			UntilYear: 100000,
+			Image: "coliz.png",
+			Wiki: "Colosseum"
+		},
+		{
+			Name: "Statue of Liberty",
+			x: 1176,
+			y: 1074,
+			SinceYear: 1886,
+			UntilYear: 100000,
+			Image: "liber.png",
+			Wiki: "Statue_of_Liberty"
+		},
+		{
+			Name: "Mount Rushmore National Memorial",
+			x: 809,
+			y: 1029,
+			SinceYear: 1925,
+			UntilYear: 100000,
+			Image: "rushmor.png",
+			Wiki: "Mount_Rushmore"
+		},
+		{
+			Name: "Big Ben and Palace of Westminster",
+			x: 2087,
+			y: 880,
+			SinceYear: 1925,
+			UntilYear: 100000,
+			Image: "ben.png",
+			Wiki: "Palace_of_Westminster"
+		},
+		{
+			Name: "Tower of the Juche Ideology",
+			x: 3630,
+			y: 1097,
+			SinceYear: 1859,
+			UntilYear: 100000,
+			Image: "chuch.png",
+			Wiki: "Juche_Tower"
+		},
+		{
+			Name: "Chateau de Chambord",
+			x: 2100,
+			y: 955,
+			SinceYear: 1547,
+			UntilYear: 100000,
+			Image: "chrd.png",
+			Wiki: "Chateau_de_Chambord"
+		},
+		{
+			Name: "Baiterek Tower",
+			x: 2962,
+			y: 885,
+			SinceYear: 2002,
+			UntilYear: 100000,
+			Image: "bait.png",
+			Wiki: "Baiterek_Tower"
+		},
+		{
+			Name: "Church of the Savior on Blood",
+			x: 2463,
+			y: 714,
+			SinceYear: 1907,
+			UntilYear: 100000,
+			Image: "spbl.png",
+			Wiki: "Church_of_the_Savior_on_Blood"
+		},
+		{
+			Name: "Neuschwanstein Castle",
+			x: 2220,
+			y: 955,
+			SinceYear: 1886,
+			UntilYear: 100000,
+			Image: "neush.png",
+			Wiki: "Neuschwanstein_Castle"
+		},
+		{
+			Name: "Belvedere",
+			x: 2290,
+			y: 944,
+			SinceYear: 1714,
+			UntilYear: 100000,
+			Image: "belv.png",
+			Wiki: "Belvedere,_Vienna"
+		},
+		{
+			Name: "CN Tower",
+			x: 1110,
+			y: 1023,
+			SinceYear: 1976,
+			UntilYear: 100000,
+			Image: "telb.png",
+			Wiki: "CN_Tower"
+		},
+		{
+			Name: "Church of Saint Sava",
+			x: 2337,
+			y: 1004,
+			SinceYear: 2004,
+			UntilYear: 100000,
+			Image: "saav.png",
+			Wiki: "Church_of_Saint_Sava"
+		},
+	],
+	
+	name: Earth
+}
