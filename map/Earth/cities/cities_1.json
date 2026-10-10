@@ -2,12 +2,12 @@
 	cities:
 	[
 		{
-			Name: "albuquerque",
+			Name: "Albuquerque",
 			x: 776,
 			y: 1163
 		},
 		{
-			Name: "Taubate",
+			Name: "Taubaté",
 			x: 1523,
 			y: 1956
 		},
@@ -47,7 +47,7 @@
 			y: 797
 		},
 		{
-			Name: "Munster",
+			Name: "Münster",
 			x: 2179,
 			y: 877
 		},
@@ -147,7 +147,7 @@
 			y: 882
 		},
 		{
-			Name: "astrakhan",
+			Name: "Astrakhan",
 			x: 2673,
 			y: 976
 		},
@@ -187,7 +187,7 @@
 			y: 1167
 		},
 		{
-			Name: "avignon",
+			Name: "Avignon",
 			x: 2146,
 			y: 1013
 		},
@@ -197,7 +197,7 @@
 			y: 1174
 		},
 		{
-			Name: "anchorage",
+			Name: "Anchorage",
 			x: 249,
 			y: 708
 		},
@@ -252,7 +252,7 @@
 			y: 705
 		},
 		{
-			Name: "Malmo",
+			Name: "Malmö",
 			x: 2248,
 			y: 804
 		},
@@ -262,7 +262,7 @@
 			y: 1712
 		},
 		{
-			Name: "Maraba",
+			Name: "Marabá",
 			x: 1479,
 			y: 1714
 		},
@@ -297,7 +297,7 @@
 			y: 1938
 		},
 		{
-			Name: "Ilheus",
+			Name: "Ilhéus",
 			x: 1603,
 			y: 1841
 		},
@@ -307,12 +307,12 @@
 			y: 1736
 		},
 		{
-			Name: "Danli",
+			Name: "Danlí",
 			x: 1022,
 			y: 1458
 		},
 		{
-			Name: "Leon",
+			Name: "León",
 			x: 1017,
 			y: 1477
 		},
@@ -412,12 +412,12 @@
 			y: 1198
 		},
 		{
-			Name: "Cancun",
+			Name: "Cancún",
 			x: 1019,
 			y: 1361
 		},
 		{
-			Name: "Leon",
+			Name: "León",
 			x: 836,
 			y: 1363
 		},
@@ -427,12 +427,12 @@
 			y: 1322
 		},
 		{
-			Name: "Queretaro",
+			Name: "Querétaro",
 			x: 852,
 			y: 1370
 		},
 		{
-			Name: "Merida",
+			Name: "Mérida",
 			x: 985,
 			y: 1365
 		},
@@ -442,7 +442,7 @@
 			y: 1381
 		},
 		{
-			Name: "Torreon",
+			Name: "Torreón",
 			x: 815,
 			y: 1300
 		},
@@ -477,7 +477,7 @@
 			y: 1250
 		},
 		{
-			Name: "amarillo",
+			Name: "Amarillo",
 			x: 833,
 			y: 1161
 		},
@@ -492,7 +492,7 @@
 			y: 1270
 		},
 		{
-			Name: "San Luis Potosi",
+			Name: "San Luis Potosí",
 			x: 844,
 			y: 1349
 		},
@@ -522,7 +522,7 @@
 			y: 1358
 		},
 		{
-			Name: "acapulco",
+			Name: "Acapulco",
 			x: 859,
 			y: 1419
 		},
@@ -587,7 +587,7 @@
 			y: 845
 		},
 		{
-			Name: "adamstown",
+			Name: "Adamstown",
 			x: 473,
 			y: 1980
 		},
@@ -612,7 +612,7 @@
 			y: 852
 		},
 		{
-			Name: "Jyvaskyla",
+			Name: "Jyväskylä",
 			x: 2402,
 			y: 669
 		},
@@ -642,12 +642,12 @@
 			y: 891
 		},
 		{
-			Name: "atyrau",
+			Name: "Atyrau",
 			x: 2719,
 			y: 960
 		},
 		{
-			Name: "aktau",
+			Name: "Aktau",
 			x: 2718,
 			y: 1023
 		},
@@ -812,7 +812,7 @@
 			y: 958
 		},
 		{
-			Name: "arkhangelsk",
+			Name: "Arkhangelsk",
 			x: 2578,
 			y: 614
 		},
@@ -872,7 +872,7 @@
 			y: 2020
 		},
 		{
-			Name: "Tucuman",
+			Name: "Tucumán",
 			x: 1281,
 			y: 2010
 		},
@@ -897,7 +897,7 @@
 			y: 839
 		},
 		{
-			Name: "lodz",
+			Name: "Łódź",
 			x: 2324,
 			y: 881
 		},
@@ -987,7 +987,7 @@
 			y: 1202
 		},
 		{
-			Name: "atlanta",
+			Name: "Atlanta",
 			x: 1046,
 			y: 1181
 		},
@@ -1012,7 +1012,7 @@
 			y: 1113
 		},
 		{
-			Name: "auckland",
+			Name: "Auckland",
 			x: 4222,
 			y: 2167
 		},
@@ -1087,7 +1087,7 @@
 			y: 1151
 		},
 		{
-			Name: "Eskisehir",
+			Name: "Eskişehir",
 			x: 2458,
 			y: 1083
 		},
@@ -1172,7 +1172,7 @@
 			y: 1739
 		},
 		{
-			Name: "Banda aceh",
+			Name: "Banda Aceh",
 			x: 3256,
 			y: 1572
 		},
@@ -1207,7 +1207,7 @@
 			y: 1128
 		},
 		{
-			Name: "aleppo",
+			Name: "Aleppo",
 			x: 2540,
 			y: 1136
 		},
@@ -1407,12 +1407,12 @@
 			y: 1754
 		},
 		{
-			Name: "ahvaz",
+			Name: "Ahvaz",
 			x: 2680,
 			y: 1213
 		},
 		{
-			Name: "Bandar abbas",
+			Name: "Bandar Abbas",
 			x: 2772,
 			y: 1272
 		},
@@ -1487,7 +1487,7 @@
 			y: 1873
 		},
 		{
-			Name: "adelaide",
+			Name: "Adelaide",
 			x: 3781,
 			y: 2135
 		},
@@ -1547,7 +1547,7 @@
 			y: 1017
 		},
 		{
-			Name: "augusta",
+			Name: "Augusta",
 			x: 1226,
 			y: 1018
 		},
@@ -1557,7 +1557,7 @@
 			y: 1033
 		},
 		{
-			Name: "albany",
+			Name: "Albany",
 			x: 1177,
 			y: 1042
 		},
@@ -1612,7 +1612,7 @@
 			y: 1147
 		},
 		{
-			Name: "Los angeles",
+			Name: "Los Angeles",
 			x: 631,
 			y: 1180
 		},
@@ -1702,12 +1702,12 @@
 			y: 1109
 		},
 		{
-			Name: "austin",
+			Name: "Austin",
 			x: 882,
 			y: 1233
 		},
 		{
-			Name: "Ciudad Juarez",
+			Name: "Ciudad Juárez",
 			x: 777,
 			y: 1214
 		},
@@ -1867,7 +1867,7 @@
 			y: 1172
 		},
 		{
-			Name: "Medellin",
+			Name: "Medellín",
 			x: 1158,
 			y: 1560
 		},
@@ -1877,7 +1877,7 @@
 			y: 1823
 		},
 		{
-			Name: "arequipa",
+			Name: "Arequipa",
 			x: 1206,
 			y: 1863
 		},
@@ -1927,7 +1927,7 @@
 			y: 961
 		},
 		{
-			Name: "Cuiaba",
+			Name: "Cuiabá",
 			x: 1395,
 			y: 1851
 		},
@@ -1937,7 +1937,7 @@
 			y: 1918
 		},
 		{
-			Name: "Cordoba",
+			Name: "Córdoba",
 			x: 1296,
 			y: 2081
 		},
@@ -1947,12 +1947,12 @@
 			y: 2104
 		},
 		{
-			Name: "Concepcion",
+			Name: "Concepción",
 			x: 1189,
 			y: 2165
 		},
 		{
-			Name: "antofagasta",
+			Name: "Antofagasta",
 			x: 1223,
 			y: 1964
 		},
@@ -1962,17 +1962,17 @@
 			y: 2241
 		},
 		{
-			Name: "Bahia Blanca",
+			Name: "Bahía Blanca",
 			x: 1316,
 			y: 2195
 		},
 		{
-			Name: "Punta arenas",
+			Name: "Punta Arenas",
 			x: 1211,
 			y: 2462
 		},
 		{
-			Name: "Porto alegre",
+			Name: "Porto Alegre",
 			x: 1456,
 			y: 2062
 		},
@@ -2142,7 +2142,7 @@
 			y: 1612
 		},
 		{
-			Name: "Belem",
+			Name: "Belém",
 			x: 1488,
 			y: 1663
 		},
@@ -2182,7 +2182,7 @@
 			y: 1681
 		},
 		{
-			Name: "arusha",
+			Name: "Arusha",
 			x: 2533,
 			y: 1690
 		},
@@ -2197,7 +2197,7 @@
 			y: 1533
 		},
 		{
-			Name: "San Cristobal",
+			Name: "San Cristóbal",
 			x: 1200,
 			y: 1540
 		},
@@ -2222,7 +2222,7 @@
 			y: 1472
 		},
 		{
-			Name: "Tehuacan",
+			Name: "Tehuacán",
 			x: 890,
 			y: 1403
 		},
@@ -2237,7 +2237,7 @@
 			y: 1698
 		},
 		{
-			Name: "awasa",
+			Name: "Awasa",
 			x: 2553,
 			y: 1551
 		},
@@ -2337,7 +2337,7 @@
 			y: 1513
 		},
 		{
-			Name: "abidjan",
+			Name: "Abidjan",
 			x: 2037,
 			y: 1573
 		},
@@ -2392,7 +2392,7 @@
 			y: 1483
 		},
 		{
-			Name: "San-Pedro",
+			Name: "San-Pédro",
 			x: 2004,
 			y: 1578
 		},
@@ -2402,7 +2402,7 @@
 			y: 1540
 		},
 		{
-			Name: "Nzerekore",
+			Name: "Nzérékoré",
 			x: 1978,
 			y: 1538
 		},
@@ -2412,7 +2412,7 @@
 			y: 1596
 		},
 		{
-			Name: "al-Faszir",
+			Name: "Al-Faszir",
 			x: 2395,
 			y: 1461
 		},
@@ -2547,7 +2547,7 @@
 			y: 1125
 		},
 		{
-			Name: "aarhus",
+			Name: "Aarhus",
 			x: 2211,
 			y: 793
 		},
@@ -2657,7 +2657,7 @@
 			y: 916
 		},
 		{
-			Name: "Krakow",
+			Name: "Kraków",
 			x: 2332,
 			y: 914
 		},
@@ -2667,7 +2667,7 @@
 			y: 890
 		},
 		{
-			Name: "Poznan",
+			Name: "Poznań",
 			x: 2294,
 			y: 869
 		},
@@ -2747,12 +2747,12 @@
 			y: 1070
 		},
 		{
-			Name: "antalya",
+			Name: "Antalya",
 			x: 2463,
 			y: 1126
 		},
 		{
-			Name: "adana",
+			Name: "Adana",
 			x: 2518,
 			y: 1124
 		},
@@ -2802,7 +2802,7 @@
 			y: 981
 		},
 		{
-			Name: "Zurich",
+			Name: "Zürich",
 			x: 2192,
 			y: 959
 		},
@@ -2867,7 +2867,7 @@
 			y: 1402
 		},
 		{
-			Name: "aurangabad",
+			Name: "Aurangabad",
 			x: 3009,
 			y: 1380
 		},
@@ -2907,12 +2907,12 @@
 			y: 1466
 		},
 		{
-			Name: "ahmedabad",
+			Name: "Ahmedabad",
 			x: 2973,
 			y: 1334
 		},
 		{
-			Name: "urumqi",
+			Name: "Ürümqi",
 			x: 3156,
 			y: 1018
 		},
@@ -3212,7 +3212,7 @@
 			y: 1045
 		},
 		{
-			Name: "almaty",
+			Name: "Almaty",
 			x: 3025,
 			y: 1029
 		},
@@ -3222,7 +3222,7 @@
 			y: 914
 		},
 		{
-			Name: "aktobe",
+			Name: "Aktobe",
 			x: 2784,
 			y: 905
 		},
@@ -3257,12 +3257,12 @@
 			y: 1298
 		},
 		{
-			Name: "Turkmenabat",
+			Name: "Türkmenabat",
 			x: 2862,
 			y: 1095
 		},
 		{
-			Name: "Dasoguz",
+			Name: "Daşoguz",
 			x: 2812,
 			y: 1044
 		},
@@ -3272,7 +3272,7 @@
 			y: 1369
 		},
 		{
-			Name: "abha",
+			Name: "Abha",
 			x: 2602,
 			y: 1396
 		},
@@ -3292,7 +3292,7 @@
 			y: 1395
 		},
 		{
-			Name: "Hafar al-Batin",
+			Name: "Hafar Al-Batin",
 			x: 2646,
 			y: 1258
 		},
@@ -3337,7 +3337,7 @@
 			y: 1290
 		},
 		{
-			Name: "ajmer",
+			Name: "Ajmer",
 			x: 2998,
 			y: 1286
 		},
@@ -3407,7 +3407,7 @@
 			y: 1288
 		},
 		{
-			Name: "agra",
+			Name: "Agra",
 			x: 3040,
 			y: 1275
 		},
@@ -3527,12 +3527,12 @@
 			y: 1035
 		},
 		{
-			Name: "Merida",
+			Name: "Mérida",
 			x: 2011,
 			y: 1096
 		},
 		{
-			Name: "Malaga",
+			Name: "Málaga",
 			x: 2034,
 			y: 1130
 		},
@@ -3542,7 +3542,7 @@
 			y: 1112
 		},
 		{
-			Name: "ajaccio",
+			Name: "Ajaccio",
 			x: 2194,
 			y: 1048
 		},
@@ -3582,7 +3582,7 @@
 			y: 824
 		},
 		{
-			Name: "Czestochowa",
+			Name: "Częstochowa",
 			x: 2321,
 			y: 900
 		},
@@ -3667,7 +3667,7 @@
 			y: 1029
 		},
 		{
-			Name: "aswan",
+			Name: "Aswan",
 			x: 2484,
 			y: 1317
 		},
@@ -3682,7 +3682,7 @@
 			y: 1284
 		},
 		{
-			Name: "asyut",
+			Name: "Asyut",
 			x: 2466,
 			y: 1273
 		},
@@ -3692,7 +3692,7 @@
 			y: 1272
 		},
 		{
-			Name: "alexandria",
+			Name: "Alexandria",
 			x: 2452,
 			y: 1217
 		},
@@ -3702,7 +3702,7 @@
 			y: 1318
 		},
 		{
-			Name: "arak",
+			Name: "Arak",
 			x: 2694,
 			y: 1172
 		},
@@ -3752,7 +3752,7 @@
 			y: 944
 		},
 		{
-			Name: "Pecs",
+			Name: "Pécs",
 			x: 2311,
 			y: 982
 		},
@@ -3767,7 +3767,7 @@
 			y: 842
 		},
 		{
-			Name: "Bialystok",
+			Name: "Białystok",
 			x: 2370,
 			y: 856
 		},
@@ -3787,7 +3787,7 @@
 			y: 1234
 		},
 		{
-			Name: "al Mukalla",
+			Name: "Al Mukalla",
 			x: 2689,
 			y: 1447
 		},
@@ -3797,7 +3797,7 @@
 			y: 1416
 		},
 		{
-			Name: "aden",
+			Name: "Aden",
 			x: 2638,
 			y: 1471
 		},
@@ -3837,7 +3837,7 @@
 			y: 764
 		},
 		{
-			Name: "aalborg",
+			Name: "Aalborg",
 			x: 2210,
 			y: 775
 		},
@@ -3902,12 +3902,12 @@
 			y: 948
 		},
 		{
-			Name: "altai",
+			Name: "Altai",
 			x: 3264,
 			y: 976
 		},
 		{
-			Name: "olgii",
+			Name: "Ölgii",
 			x: 3186,
 			y: 927
 		},
@@ -3932,7 +3932,7 @@
 			y: 1656
 		},
 		{
-			Name: "Moron",
+			Name: "Mörön",
 			x: 3314,
 			y: 918
 		},
@@ -3987,7 +3987,7 @@
 			y: 875
 		},
 		{
-			Name: "abakan",
+			Name: "Abakan",
 			x: 3205,
 			y: 838
 		},
@@ -4022,7 +4022,7 @@
 			y: 693
 		},
 		{
-			Name: "Jonkoping",
+			Name: "Jönköping",
 			x: 2262,
 			y: 759
 		},
@@ -4057,12 +4057,12 @@
 			y: 939
 		},
 		{
-			Name: "Wroclaw",
+			Name: "Wrocław",
 			x: 2294,
 			y: 894
 		},
 		{
-			Name: "Gdansk",
+			Name: "Gdańsk",
 			x: 2315,
 			y: 829
 		},
@@ -4172,12 +4172,12 @@
 			y: 2037
 		},
 		{
-			Name: "Kosice",
+			Name: "Košice",
 			x: 2346,
 			y: 937
 		},
 		{
-			Name: "Presov",
+			Name: "Prešov",
 			x: 2347,
 			y: 932
 		},
@@ -4187,7 +4187,7 @@
 			y: 2058
 		},
 		{
-			Name: "zilina",
+			Name: "Žilina",
 			x: 2315,
 			y: 928
 		},
@@ -4197,7 +4197,7 @@
 			y: 917
 		},
 		{
-			Name: "Plzen",
+			Name: "Plzeň",
 			x: 2251,
 			y: 919
 		},
@@ -4317,7 +4317,7 @@
 			y: 1718
 		},
 		{
-			Name: "Sao Luis",
+			Name: "Sao Luís",
 			x: 1541,
 			y: 1679
 		},
@@ -4337,7 +4337,7 @@
 			y: 1814
 		},
 		{
-			Name: "Maceio",
+			Name: "Maceió",
 			x: 1643,
 			y: 1771
 		},
@@ -4397,12 +4397,12 @@
 			y: 1803
 		},
 		{
-			Name: "Goiania",
+			Name: "Goiânia",
 			x: 1476,
 			y: 1866
 		},
 		{
-			Name: "Uberlandia",
+			Name: "Uberlândia",
 			x: 1488,
 			y: 1896
 		},
@@ -4417,7 +4417,7 @@
 			y: 1144
 		},
 		{
-			Name: "Tebessa",
+			Name: "Tébessa",
 			x: 2184,
 			y: 1150
 		},
@@ -4452,7 +4452,7 @@
 			y: 1174
 		},
 		{
-			Name: "agadir",
+			Name: "Agadir",
 			x: 1968,
 			y: 1222
 		},
@@ -4472,7 +4472,7 @@
 			y: 847
 		},
 		{
-			Name: "aberdeen",
+			Name: "Aberdeen",
 			x: 2061,
 			y: 776
 		},
@@ -4507,7 +4507,7 @@
 			y: 1017
 		},
 		{
-			Name: "alicante",
+			Name: "Alicante",
 			x: 2078,
 			y: 1107
 		},
@@ -4522,12 +4522,12 @@
 			y: 1990
 		},
 		{
-			Name: "a Coruna",
+			Name: "A Coruna",
 			x: 1984,
 			y: 1026
 		},
 		{
-			Name: "Cordoba",
+			Name: "Córdoba",
 			x: 2028,
 			y: 1114
 		},
@@ -4542,7 +4542,7 @@
 			y: 1021
 		},
 		{
-			Name: "Florianopolis",
+			Name: "Florianópolis",
 			x: 1487,
 			y: 2022
 		},
@@ -4552,7 +4552,7 @@
 			y: 2020
 		},
 		{
-			Name: "Macapa",
+			Name: "Macapá",
 			x: 1457,
 			y: 1643
 		},

@@ -1,0 +1,18 @@
+{
+	Map: [
+		{
+			MapName: "Ukraine",
+			Author: "ivr17",
+			BackgroundName: "ukraine",
+			ContinentsPackage: "Earth6"
+			RegionsPackage: "Earth_AoC2",
+			NumberOfProvinces: 492,
+			MapScale: 3,
+			WorldMap: false,
+			Scenario: "testScenario",
+			Wiki: "Wikipedia:Unusual_articles"
+		},
+	],
+	
+	Age_of_Civilizations: Map
+}

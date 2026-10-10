@@ -1,0 +1,15 @@
+{
+"Age_of_Civilizations": "Data",
+"Data_Scenario_Info": [
+	{
+		"Name": "Kaiserschlacht",
+		"Author": "ivr17",
+		"Wiki": "Great_War",
+		"Civs": 75,
+		"Age": 7,
+		"Year": 1918,
+		"Month": 3,
+		"Day": 23
+	}
+]
+}

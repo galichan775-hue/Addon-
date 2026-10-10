@@ -1,0 +1,18 @@
+{
+	Map: [
+		{
+			MapName: "British Isles",
+			Author: "Galantegio",
+			BackgroundName: "bri",
+			ContinentsPackage: "Earth6"
+			RegionsPackage: "Earth_AoC2",
+			NumberOfProvinces: 661,
+			MapScale: 3,
+			WorldMap: false,
+			Scenario: "testScenario",
+			Wiki: "Wikipedia:Unusual_articles"
+		},
+	],
+	
+	Age_of_Civilizations: Map
+}

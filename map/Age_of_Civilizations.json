@@ -2,9 +2,15 @@
 	Map: [
 		{
 			Folder: "Earth+"
-        },
+		},
 		{
-			Folder: "Earth"
+			Folder: "ukraine"
+		},
+		{
+			Folder: "Iberian_Peninsula"
+		},
+		{
+			Folder: "British_Isles"
 		},
 	],
 	

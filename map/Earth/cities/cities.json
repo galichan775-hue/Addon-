@@ -2,17 +2,17 @@
 	cities:
 	[
 		{
-			Name: "amsterdam",
+			Name: "Amsterdam",
 			x: 2147,
 			y: 867,
 		},
 		{
-			Name: "antananarivo",
+			Name: "Antananarivo",
 			x: 2666,
 			y: 1898
 		},
 		{
-			Name: "ankara",
+			Name: "Ankara",
 			x: 2488,
 			y: 1081
 		},
@@ -22,7 +22,7 @@
 			y: 1180
 		},
 		{
-			Name: "andorra la Vella",
+			Name: "Andorra la Vella",
 			x: 2105,
 			y: 1039
 		},
@@ -47,12 +47,12 @@
 			y: 867
 		},
 		{
-			Name: "Bogota",
+			Name: "Bogotá",
 			x: 1176,
 			y: 1581
 		},
 		{
-			Name: "Brasilia",
+			Name: "Brasília",
 			x: 1496,
 			y: 1854
 		},
@@ -287,12 +287,12 @@
 			y: 1105
 		},
 		{
-			Name: "Yaounde",
+			Name: "Yaoundé",
 			x: 2226,
 			y: 1593
 		},
 		{
-			Name: "San Jose",
+			Name: "San José",
 			x: 1053,
 			y: 1512
 		},
@@ -302,7 +302,7 @@
 			y: 1523
 		},
 		{
-			Name: "asuncion",
+			Name: "Asunción",
 			x: 1378,
 			y: 1989
 		},
@@ -317,7 +317,7 @@
 			y: 2134
 		},
 		{
-			Name: "Buenos aires",
+			Name: "Buenos Aires",
 			x: 1366,
 			y: 2130
 		},
@@ -397,7 +397,7 @@
 			y: 1437
 		},
 		{
-			Name: "abuja",
+			Name: "Abuja",
 			x: 2175,
 			y: 1524
 		},
@@ -407,12 +407,12 @@
 			y: 1557
 		},
 		{
-			Name: "Lome",
+			Name: "Lomé",
 			x: 2098,
 			y: 1562
 		},
 		{
-			Name: "accra",
+			Name: "Accra",
 			x: 2083,
 			y: 1566
 		},
@@ -487,7 +487,7 @@
 			y: 1141
 		},
 		{
-			Name: "athens",
+			Name: "Athens",
 			x: 2378,
 			y: 1111
 		},
@@ -552,7 +552,7 @@
 			y: 1801
 		},
 		{
-			Name: "Reykjavik",
+			Name: "Reykjavík",
 			x: 1820,
 			y: 626
 		},
@@ -567,7 +567,7 @@
 			y: 1167
 		},
 		{
-			Name: "ashgabat",
+			Name: "Ashgabat",
 			x: 2799,
 			y: 1114
 		},
@@ -587,7 +587,7 @@
 			y: 1059
 		},
 		{
-			Name: "astana",
+			Name: "Astana",
 			x: 2960,
 			y: 889
 		},
@@ -667,7 +667,7 @@
 			y: 1436
 		},
 		{
-			Name: "algiers",
+			Name: "Algiers",
 			x: 2126,
 			y: 1133
 		},
@@ -687,7 +687,7 @@
 			y: 947
 		},
 		{
-			Name: "abu Dhabi",
+			Name: "Abu Dhabi",
 			x: 2755,
 			y: 1314
 		},
@@ -707,7 +707,7 @@
 			y: 1771
 		},
 		{
-			Name: "Noumea",
+			Name: "Nouméa",
 			x: 4124,
 			y: 1942
 		},
@@ -747,7 +747,7 @@
 			y: 803
 		},
 		{
-			Name: "asmara",
+			Name: "Asmara",
 			x: 2563,
 			y: 1440
 		},
@@ -762,7 +762,7 @@
 			y: 1639
 		},
 		{
-			Name: "Yaounde",
+			Name: "Yaoundé",
 			x: 2226,
 			y: 1593
 		},
@@ -807,7 +807,7 @@
 			y: 1950
 		},
 		{
-			Name: "Sao Tome",
+			Name: "Sao Tomé",
 			x: 2166,
 			y: 1634
 		},
@@ -822,7 +822,7 @@
 			y: 1480
 		},
 		{
-			Name: "addis ababa",
+			Name: "Addis Ababa",
 			x: 2561,
 			y: 1525
 		},
@@ -887,7 +887,7 @@
 			y: 2433
 		},
 		{
-			Name: "Male",
+			Name: "Malé",
 			x: 2982,
 			y: 1589
 		},
@@ -912,7 +912,7 @@
 			y: 832
 		},
 		{
-			Name: "Torshavn",
+			Name: "Tórshavn",
 			x: 2004,
 			y: 666
 		},
@@ -927,7 +927,7 @@
 			y: 1543
 		},
 		{
-			Name: "agana",
+			Name: "Agana",
 			x: 3854,
 			y: 1462
 		},
@@ -942,7 +942,7 @@
 			y: 1761
 		},
 		{
-			Name: "atafu",
+			Name: "Atafu",
 			x: 4394,
 			y: 1770
 		},
@@ -957,7 +957,7 @@
 			y: 1525
 		},
 		{
-			Name: "avarua",
+			Name: "Avarua",
 			x: 99,
 			y: 1928
 		},
@@ -972,12 +972,12 @@
 			y: 1882
 		},
 		{
-			Name: "apia",
+			Name: "Apia",
 			x: 4395,
 			y: 1834
 		},
 		{
-			Name: "alofi",
+			Name: "Alofi",
 			x: 4415,
 			y: 1900
 		},
@@ -1022,7 +1022,7 @@
 			y: 924
 		},
 		{
-			Name: "amman",
+			Name: "Amman",
 			x: 2525,
 			y: 1203
 		},

@@ -1,0 +1,18 @@
+{
+	Map: [
+		{
+			MapName: "Iberian Peninsula",
+			Author: "Galantegio",
+			BackgroundName: "ib",
+			ContinentsPackage: "Earth6"
+			RegionsPackage: "Earth_AoC2",
+			NumberOfProvinces: 1443,
+			MapScale: 3,
+			WorldMap: false,
+			Scenario: "testScenario",
+			Wiki: "Wikipedia:Unusual_articles"
+		},
+	],
+	
+	Age_of_Civilizations: Map
+}
